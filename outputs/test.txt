@@ -1,2 +1,7 @@
 test passed! 
+<<<<<<< Updated upstream
 time: 1712326302
+=======
+time: 1712324832
+argv: {'training_folder': '../../', 'params': {'general': {'param1': 0}}}
+>>>>>>> Stashed changes
