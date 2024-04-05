@@ -44,7 +44,7 @@
       "OutputPath": "$.Payload",
       "Parameters": {
         "Payload": {
-          "notebook_path": "transports/test.ipynb",
+          "notebook_path": "notebooks/transport/test.ipynb",
           "scenario_path_S3.$": "$.scenario_path_S3",
           "launcher_arg.$": "$.launcher_arg",
           "metadata.$": "$.metadata"
