@@ -1,3 +1,0 @@
-test passed! 
-time: 1712326714
-argv: {'training_folder': '../../', 'params': {'general': {'param1': 0}}}
