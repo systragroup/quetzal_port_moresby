@@ -8,7 +8,7 @@
       "Parameters": {
         "Payload": {
           "authorization.$": "$.authorization",
-          "model": "quetzal-classic",
+          "model": "quetzal-port-moresby",
           "scenario_path_S3.$": "$.scenario_path_S3",
           "launcher_arg.$": "$.launcher_arg",
           "metadata.$": "$.metadata"
@@ -48,7 +48,7 @@
           "launcher_arg.$": "$.launcher_arg",
           "metadata.$": "$.metadata"
         },
-        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-classic:$LATEST"
+        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-port-moresby:$LATEST"
       },
       "Retry": [
         {
@@ -83,7 +83,7 @@
           "launcher_arg.$": "$.launcher_arg",
           "metadata.$": "$.metadata"
         },
-        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-classic:$LATEST"
+        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-port-moresby:$LATEST"
       },
       "Retry": [
         {
@@ -118,7 +118,7 @@
           "launcher_arg.$": "$.launcher_arg",
           "metadata.$": "$.metadata"
         },
-        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-classic:$LATEST"
+        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-port-moresby:$LATEST"
       },
       "Retry": [
         {
@@ -153,7 +153,7 @@
           "launcher_arg.$": "$.launcher_arg",
           "metadata.$": "$.metadata"
         },
-        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-classic:$LATEST"
+        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-port-moresby:$LATEST"
       },
       "Retry": [
         {
@@ -188,7 +188,7 @@
           "launcher_arg.$": "$.launcher_arg",
           "metadata.$": "$.metadata"
         },
-        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-classic:$LATEST"
+        "FunctionName": "arn:aws:lambda:ca-central-1:142023388927:function:quetzal-port-moresby:$LATEST"
       },
       "Retry": [
         {
